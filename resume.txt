@@ -1,0 +1,110 @@
+Dan Kubb
+33699 Grewall Crescent
+Mission, BC, V2V 7B7
+Canada
+
+dan.kubb@gmail.com
++1 (604) 820-0212
+
+
+Summary
+-------
+
+* Proven record of delivering well tested software that exceed
+  expectations.
+* Very comfortable communicating with all levels of an organization and
+  explain technical concepts using straight-forward language.
+* Understands business and marketing, and has an especially deep
+  understanding of internet marketing.
+* Enjoys teaching and mentoring and has directly managed teams of up to
+  15 developers.
+* Strong technical background with over 10 years of experience
+  developing web applications.
+* Active open source contributor.  Currently leads the DataMapper ORM
+  open-source project, which is a direct competitor to ActiveRecord
+  (a part of Ruby on Rails), is used by hundreds of companies and has
+  dozens of contributors.
+
+
+Skills
+------
+
+Languages -- Ruby, Perl, Javascript, HTML, CSS, Erlang
+Frameworks -- Ruby on Rails, JQuery, Prototype, mod_perl
+Databases -- MySQL, PostgreSQL, SQLite
+Operating Systems -- Linux, OS X, Windows
+Tools -- DataMapper, RSpec, Apache, Nginx
+
+
+Experience
+----------
+
+Freelance Developer
+Autopilot Marketing Inc.
+May 2001 — Present (9 years)
+
+* Worked with dozens of customers, automating and streamlining their
+  internal business and marketing processes.
+
+* Developed custom ecommerce applications handling over 1M in yearly
+  sales.
+
+* Integrated back-end systems that were not designed to work together to
+  allow simpler administration and increase sales.
+
+* In one case, developed a system to help manage fulfillment of
+  physically shipped products.  Reduced time to manage daily orders
+  from 4 hours to 10 minutes a day, and eliminated many costly mistakes
+  caused by the formerly manual process.
+
+
+Developer
+Lypp
+2007 — 2008 (1 year)
+
+* Integrated Voice Conferencing system with Ruby on Rails application.
+  System allows conferences to be scheduled with attendees, and the
+  system would dial out to all attendees and pull them into a conference
+  call.
+
+* Mentored small team of developers and designers.
+
+* Worked directly with designers and project managers to design easy to
+  use interface to allow call scheduling.
+
+* Developed REST API to allow other applications to integrate conference
+  calling systems.  API is compatible with ActiveResource allowing Ruby
+  on Rails applications to easily integrate with the service.
+
+
+Lead Software Developer
+The Internet Marketing Center
+March 1999 — June 2004 (5 years 4 months)
+
+* Developed dozens of in-house applications to streamline business and
+  increase sales.
+
+* Built ecommerce platform that formed the basis for all company systems
+  and continuously refined while the company grew from 4 employees to
+  over 50, and 10M a year in revenue online.
+
+  As of 2008, system is still operational and handles business with over
+  100+ employees and 40M a year in revenue.
+
+* Mentored and managed software developers on multiple simultaneous
+  projects.  Team size would fluctuate depending on the project, but I
+  have managed up to 15 developers at one time.
+
+* Developed affiliate program used by 90,000+ affiliates, one of the the
+  largest on the internet after Amazon.com.
+
+* Repackaged in-house affiliate program as commercial system called
+  AssocTRAC.  Sold several thousand copies for well over 1M in revenue
+  for about 4 man-months of work.
+
+* Rebuilt eBookPro authentication system to handle extremely large
+  volumes of traffic.  Stability was a primary concern, so it was built
+  using Test Driven Development and refactored into clean single-purpose
+  components.
+
+  As of 2008, this system has been running with 100% uptime since 2004.
