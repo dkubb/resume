@@ -1,26 +1,25 @@
-Dan Kubb
-33699 Grewall Crescent
-Mission, BC, V2V 7B7
-Canada
+                                 Dan Kubb
+                          33699 Grewall Crescent
+                           Mission, BC, V2V 7B7
+                                  Canada
 
-dan.kubb@gmail.com
-+1 (604) 820-0212
-
+                            dan.kubb@gmail.com
+                            +1 (604) 820-0212
 
 Summary
 -------
 
-* Proven record of delivering well tested software that exceed
+* Proven record of delivering well-tested software that exceeds
   expectations.
 * Very comfortable communicating with all levels of an organization and
-  explain technical concepts using straight-forward language.
+  explain technical concepts using straightforward language.
 * Understands business and marketing, and has an especially deep
   understanding of internet marketing.
 * Enjoys teaching and mentoring and has directly managed teams of up to
   15 developers.
 * Strong technical background with over 10 years of experience
   developing web applications.
-* Active open source contributor.  Currently leads the DataMapper ORM
+* Active open source contributor. Currently leads the DataMapper ORM
   open-source project, which is a direct competitor to ActiveRecord
   (a part of Ruby on Rails), is used by hundreds of companies and has
   dozens of contributors.
@@ -29,11 +28,11 @@ Summary
 Skills
 ------
 
-Languages -- Ruby, Perl, Javascript, HTML, CSS, Erlang
-Frameworks -- Ruby on Rails, JQuery, Prototype, mod_perl
-Databases -- MySQL, PostgreSQL, SQLite
+Languages         -- Ruby, Perl, Javascript, HTML, CSS, Erlang
+Frameworks        -- Ruby on Rails, JQuery, Prototype, mod_perl
+Databases         -- MySQL, PostgreSQL, SQLite
 Operating Systems -- Linux, OS X, Windows
-Tools -- DataMapper, RSpec, Apache, Nginx
+Tools             -- DataMapper, RSpec, Apache, Nginx
 
 
 Experience
@@ -53,7 +52,7 @@ May 2001 — Present (9 years)
   allow simpler administration and increase sales.
 
 * In one case, developed a system to help manage fulfillment of
-  physically shipped products.  Reduced time to manage daily orders
+  physically shipped products. Reduced time to manage daily orders
   from 4 hours to 10 minutes a day, and eliminated many costly mistakes
   caused by the formerly manual process.
 
@@ -73,7 +72,7 @@ Lypp
   use interface to allow call scheduling.
 
 * Developed REST API to allow other applications to integrate conference
-  calling systems.  API is compatible with ActiveResource allowing Ruby
+  calling systems. API is compatible with ActiveResource allowing Ruby
   on Rails applications to easily integrate with the service.
 
 
@@ -92,18 +91,18 @@ March 1999 — June 2004 (5 years 4 months)
   100+ employees and 40M a year in revenue.
 
 * Mentored and managed software developers on multiple simultaneous
-  projects.  Team size would fluctuate depending on the project, but I
+  projects. Team size would fluctuate depending on the project, but I
   have managed up to 15 developers at one time.
 
 * Developed affiliate program used by 90,000+ affiliates, one of the the
   largest on the internet after Amazon.com.
 
 * Repackaged in-house affiliate program as commercial system called
-  AssocTRAC.  Sold several thousand copies for well over 1M in revenue
+  AssocTRAC. Sold several thousand copies for well over 1M in revenue
   for about 4 man-months of work.
 
 * Rebuilt eBookPro authentication system to handle extremely large
-  volumes of traffic.  Stability was a primary concern, so it was built
+  volumes of traffic. Stability was a primary concern, so it was built
   using Test Driven Development and refactored into clean single-purpose
   components.
 
